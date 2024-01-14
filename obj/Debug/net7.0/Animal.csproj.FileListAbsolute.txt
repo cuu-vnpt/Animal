@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Animal/bin/Debug/net7.0/Animal
+/Users/macos/Desktop/Operator/Animal/bin/Debug/net7.0/Animal.deps.json
+/Users/macos/Desktop/Operator/Animal/bin/Debug/net7.0/Animal.runtimeconfig.json
+/Users/macos/Desktop/Operator/Animal/bin/Debug/net7.0/Animal.dll
+/Users/macos/Desktop/Operator/Animal/bin/Debug/net7.0/Animal.pdb
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.dll
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/refint/Animal.dll
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.pdb
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/Animal.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Animal/obj/Debug/net7.0/ref/Animal.dll
